@@ -11,7 +11,7 @@
   * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
-  * [Questions](#questions)
+  
   
   ## Installation
   1. Copy the clone link of the repository from GitHub 
@@ -26,11 +26,13 @@
   * express
 
   ## Usage
-  1. The user will navigate to https://note-taker-jam.herokuapp.com/
+  1. The user will navigate to [https://note-taker-ndc.herokuapp.com/]
   2. Select the 'Get Started' button
   3. Type a note and hit the save icon
 
   ## Screen Shots:
+![Screenshot (11)](https://user-images.githubusercontent.com/61319384/183269598-df5dbc25-b1bb-4f02-a673-bc16aaced33e.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/61319384/183269602-6e83fa66-3ac6-446f-a171-57281145f4b8.png)
 
 
 
